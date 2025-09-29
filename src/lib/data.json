@@ -1,0 +1,390 @@
+{
+	"data": {
+		"Biology": {
+			"Midterm": {
+				"sections": [
+					{
+						"title": "Origin of Life & Conditions on Early Earth",
+						"questions": [
+							{
+								"question": "What were the conditions on early Earth that allowed life to form?",
+								"answer": "Early Earth had little oxygen, lots of volcanic gases (CO2, CH4, NH3, H2), and oceans formed after cooling. These conditions allowed abiotic synthesis of organic molecules."
+							},
+							{
+								"question": "What are protocells?",
+								"answer": "Protocells are droplets with membranes that maintained an internal environment different from their surroundings, a key step toward living cells."
+							},
+							{
+								"question": "What is the RNA world hypothesis?",
+								"answer": "It proposes that self-replicating RNA molecules were the first genetic material, as RNA can both store information and catalyze reactions."
+							},
+							{
+								"question": "What are the four key steps hypothesized in the origin of life from non-living matter?",
+								"answer": "1) Abiotic synthesis of small organic molecules (amino acids, nitrogenous bases). 2) Joining of these small molecules into polymers (proteins, nucleic acids). 3) Packaging of molecules into protocells (membrane-bound droplets). 4) Origin of self-replicating molecules (RNA)."
+							},
+							{
+								"question": "What was the composition of Earth's early atmosphere, and why was its \"reducing\" nature important for the synthesis of organic molecules?",
+								"answer": "Earth's early atmosphere had little oxygen and was reducing (full of molecules that donate electrons, like hydrogen, methane, ammonia). This was important because it facilitated the chemical reactions that form organic molecules from simpler inorganic ones."
+							},
+							{
+								"question": "Describe the Miller-Urey experiment. What did it demonstrate?",
+								"answer": "The Miller-Urey experiment simulated early Earth's conditions by circulating gases thought to be in the early atmosphere (methane, ammonia, hydrogen, water vapor) and sparking them with electricity (simulating lightning). It demonstrated that amino acids and other organic compounds could form abiotically."
+							},
+							{
+								"question": "Besides the atmosphere, what are two other hypothesized sources of organic compounds on early Earth?",
+								"answer": "Other hypothesized sources: 1) Deep-sea hydrothermal vents, and 2) Organic compounds delivered by meteorites."
+							},
+							{
+								"question": "What are protocells? What properties did they likely have (e.g., membrane, metabolism)?",
+								"answer": "Protocells are hypothesized early, simple precursors to cells. They likely had a lipid membrane and an internal chemistry different from their surroundings, and could exhibit simple metabolism, growth, and reproduction."
+							},
+							{
+								"question": "Why is RNA, not DNA, believed to be the first genetic material? What abilities does RNA have that support the \"RNA World\" hypothesis?",
+								"answer": "RNA is believed to be the first genetic material because it can both store genetic information (like DNA) and catalyze chemical reactions (as ribozymes), including self-replication. DNA is more stable but requires enzymes (proteins) for replication."
+							}
+						]
+					},
+					{
+						"title": "Evolution & Natural Selection",
+						"questions": [
+							{
+								"question": "What is homology?",
+								"answer": "Similarity due to shared ancestry (e.g., vertebrate forelimbs)."
+							},
+							{
+								"question": "What is analogy?",
+								"answer": "Similarity due to convergent evolution, not common ancestry (e.g., wings of birds and insects)."
+							},
+							{
+								"question": "What do the fossil record and biogeography show?",
+								"answer": "Fossils document extinct species and transitional forms, while biogeography shows species distributions shaped by continental drift and isolation."
+							},
+							{
+								"question": "What is evolution?",
+								"answer": "Evolution is descent with modification, where populations change over generations, leading to new species."
+							},
+							{
+								"question": "What are the four steps of natural selection?",
+								"answer": "Overproduction, Variation, Selection, and Adaptation."
+							},
+							{
+								"question": "Do individuals evolve?",
+								"answer": "No, individuals do not evolve. Populations evolve over time through changes in allele frequencies."
+							},
+							{
+								"question": "Define evolution in terms of \"descent with modification.\"",
+								"answer": "Evolution as descent with modification: Present-day species are descendants of ancestral species that were different from them. Over time, populations change as they accumulate adaptations to their environment."
+							},
+							{
+								"question": "What were Darwin's two key observations and two inferences that led to his theory of natural selection?",
+								"answer": "Observations: 1) Members of a population vary in their inherited traits. 2) All species can produce more offspring than the environment can support. Inferences: 1) Individuals with inherited traits that give them a higher probability of surviving and reproducing will leave more offspring. 2) This unequal ability to survive and reproduce will lead to the accumulation of favorable traits in the population over generations."
+							},
+							{
+								"question": "Explain the difference between homologous and analogous structures. Give an example of each.",
+								"answer": "Homologous structures: Similar structures due to common ancestry (e.g., the forelimb bones of humans, cats, whales, and bats). Analogous structures: Similar structures due to convergent evolution, not common ancestry (e.g., the wings of birds and insects)."
+							},
+							{
+								"question": "What is convergent evolution? Provide an example.",
+								"answer": "Convergent evolution is when distantly related organisms independently evolve similar traits to adapt to similar environments. Example: The streamlined body shape of a shark (fish) and a dolphin (mammal)."
+							},
+							{
+								"question": "List three different types of evidence that support the theory of evolution.",
+								"answer": "Evidence for evolution includes: the fossil record, homology (anatomical, developmental, molecular), biogeography, and direct observations (e.g., antibiotic resistance)."
+							},
+							{
+								"question": "Why is it incorrect to say that \"individuals evolve\"?",
+								"answer": "Evolution is defined as a change in the genetic composition of a population over generations. Individuals do not change their genetic makeup during their lifetime; instead, the proportion of different alleles changes in the population over time."
+							},
+							{
+								"question": "What is the difference between directional, disruptive, and stabilizing selection?",
+								"answer": "Directional: Favors one extreme phenotype. Disruptive: Favors both extremes over the intermediate. Stabilizing: Favors intermediate variants and selects against extremes."
+							},
+							{
+								"question": "Explain how the evolution of drug-resistant bacteria is a direct observation of natural selection.",
+								"answer": "When antibiotics are used, they create a strong selective pressure. Bacteria with random mutations for resistance survive and reproduce at higher rates than non-resistant bacteria, passing the resistance allele to the next generation. Over time, the entire population becomes resistant."
+							}
+						]
+					},
+					{
+						"title": "Population Genetics & Hardy-Weinberg Equilibrium",
+						"questions": [
+							{
+								"question": "What is microevolution?",
+								"answer": "A change in allele frequencies in a population over generations."
+							},
+							{
+								"question": "What are the three main mechanisms of microevolution?",
+								"answer": "Natural selection, genetic drift, and gene flow."
+							},
+							{
+								"question": "What does the Hardy-Weinberg equilibrium describe?",
+								"answer": "It predicts allele and genotype frequencies in a non-evolving population using p² + 2pq + q² = 1."
+							},
+							{
+								"question": "Define the following terms: Population, Gene Pool, Allele Frequency.",
+								"answer": "Population: A localized group of individuals of the same species. Gene Pool: All the copies of every allele at every locus in all members of the population. Allele Frequency: The proportion of a specific allele in a population."
+							},
+							{
+								"question": "What are the five conditions that must be met for a population to be in Hardy-Weinberg equilibrium?",
+								"answer": "HW Conditions: 1) Very large population size. 2) No gene flow (migration). 3) No mutations. 4) Random mating. 5) No natural selection."
+							},
+							{
+								"question": "If a population is in Hardy-Weinberg equilibrium, what does this tell you about its evolution?",
+								"answer": "If a population is in Hardy-Weinberg equilibrium, it is NOT evolving (its allele frequencies are not changing)."
+							},
+							{
+								"question": "The Hardy-Weinberg equations are p + q = 1 and p² + 2pq + q² = 1. What do p, q, p², 2pq, and q² represent?",
+								"answer": "p = frequency of the dominant allele. q = frequency of the recessive allele. p² = frequency of homozygous dominant genotype. 2pq = frequency of heterozygous genotype. q² = frequency of homozygous recessive genotype."
+							},
+							{
+								"question": "In a population of flowers, red color (R) is dominant to white (r). If 16% of the population is white (q² = 0.16), calculate the frequency of the recessive allele (q), the dominant allele (p), and the heterozygous genotype (2pq).",
+								"answer": "q² = 0.16, so q = √0.16 = 0.4. p = 1 - q = 1 - 0.4 = 0.6. 2pq = 2 * (0.6) * (0.4) = 0.48. So, 40% recessive allele, 60% dominant allele, 48% heterozygous."
+							},
+							{
+								"question": "What are the three main mechanisms that alter allele frequencies in a population (i.e., cause microevolution)?",
+								"answer": "The three main mechanisms are: Natural Selection, Genetic Drift, and Gene Flow."
+							},
+							{
+								"question": "Contrast the founder effect and the bottleneck effect. How do they both relate to genetic drift?",
+								"answer": "Founder Effect: A few individuals colonize a new habitat, and their gene pool is not representative of the source population. Bottleneck Effect: A sudden environmental disaster drastically reduces population size, and the survivors' gene pool is not representative of the original population. Both are forms of genetic drift (allele frequency changes due to chance)."
+							},
+							{
+								"question": "How does gene flow affect the genetic differences between populations?",
+								"answer": "Gene flow transfers alleles between populations, which reduces genetic differences between them and can make two populations more similar."
+							}
+						]
+					},
+					{
+						"title": "Speciation",
+						"questions": [
+							{
+								"question": "What is the biological species concept?",
+								"answer": "A species is a group of populations whose members can interbreed and produce viable, fertile offspring."
+							},
+							{
+								"question": "What is allopatric speciation?",
+								"answer": "Speciation that occurs when populations are geographically isolated, leading to reproductive isolation."
+							},
+							{
+								"question": "What is sympatric speciation?",
+								"answer": "Speciation that occurs without geographic isolation, often through polyploidy, sexual selection, or habitat differentiation."
+							},
+							{
+								"question": "What is the biological species concept? What is its main criterion for defining a species?",
+								"answer": "The biological species concept defines a species as a group of populations whose members have the potential to interbreed in nature and produce viable, fertile offspring."
+							},
+							{
+								"question": "Why is a mule not considered a separate species according to the biological species concept?",
+								"answer": "A mule is a sterile hybrid offspring of a horse and a donkey. Because it is not fertile, horses and donkeys are considered separate species as they cannot produce viable, fertile offspring together."
+							},
+							{
+								"question": "Define reproductive isolation and explain why it is crucial for speciation.",
+								"answer": "Reproductive isolation is the existence of biological barriers that impede members of two species from producing viable, fertile offspring. It is crucial because without it, gene flow between populations would blend them back together, preventing the formation of distinct species."
+							},
+							{
+								"question": "Match the following barriers to their correct category (Prezygotic or Postzygotic): Two species breed at different times of the year. (Temporal Isolation) The hybrid offspring of two species are sterile. (Reduced Hybrid Fertility) The sperm of one species cannot fertilize the egg of another. (Gametic Isolation) Hybrids are produced but are frail and die before reproducing. (Reduced Hybrid Viability)",
+								"answer": "Temporal Isolation: Prezygotic. Reduced Hybrid Fertility: Postzygotic. Gametic Isolation: Prezygotic. Reduced Hybrid Viability: Postzygotic."
+							},
+							{
+								"question": "Compare and contrast allopatric speciation and sympatric speciation.",
+								"answer": "Allopatric speciation occurs when a population is divided by a geographic barrier. Sympatric speciation occurs without a geographic barrier, often through polyploidy, habitat differentiation, or sexual selection."
+							},
+							{
+								"question": "What is polyploidy, and why is it a common mechanism for sympatric speciation in plants?",
+								"answer": "Polyploidy is the condition of having more than two sets of chromosomes. It can instantly cause reproductive isolation because a polyploid individual can no longer produce viable gametes with its diploid ancestors. It is common in plants because many plants can self-fertilize."
+							}
+						]
+					},
+					{
+						"title": "History & Evolution of Life (Biodiversity, Mass Extinctions)",
+						"questions": [
+							{
+								"question": "What is the local extinction of species",
+								"answer": "extirpation"
+							},
+							{
+								"question": "What is the extinction of species accross all ecosystems",
+								"answer": "global extinction"
+							},
+							{
+								"question": "What are some evidence of endosymbiosis",
+								"answer": "The mitochondria has a circular chromosone that doesn't resembles histones or other proteins,Mitochondria and the plastids replicate by similar process to that of some bacteria Mitochondria and plastids both Contain elements that are similar the transcription/translation process of bacterias, Inner membranes of mitochondria and plastids have enzymes and transport systems homologous to those in current bacteria"
+							},
+							{
+								"question": "Who were the first animals to move into land",
+								"answer": "tetrapods and arthropoda "
+							},
+							{
+								"question": "What are the three levels of biodiversity?",
+								"answer": "Genetic diversity, species diversity, and ecosystem diversity."
+							},
+							{
+								"question": "What is extirpation?",
+								"answer": "The local extinction of a species from one area, though it may exist elsewhere."
+							},
+							{
+								"question": "What is the role of COSEWIC in Canada?",
+								"answer": "It assesses the conservation status of species and recommends which should be protected under the Species at Risk Act."
+							},
+							{
+								"question": "What are the three levels of biodiversity? Briefly define each.",
+								"answer": "1. Genetic diversity: Variation of genes within a species. 2. Species diversity: The variety of species in an ecosystem or the biosphere. 3. Ecosystem diversity: The variety of ecosystems in the biosphere."
+							},
+							{
+								"question": "What is the significance of stromatolites?",
+								"answer": "Stromatolites are layered rocks formed by the growth of photosynthetic prokaryotes (cyanobacteria). They are the earliest direct fossil evidence of life (3.5 billion years old)."
+							},
+							{
+								"question": "What was the \"oxygen revolution,\" and how did it change life on Earth?",
+								"answer": "The \"oxygen revolution\" was the sharp increase in atmospheric oxygen caused by photosynthetic prokaryotes (cyanobacteria). It caused many prokaryote extinctions (as oxygen was toxic to many anaerobes) but ultimately led to the evolution of cellular respiration, which uses oxygen to efficiently extract energy."
+							},
+							{
+								"question": "What is the endosymbiotic theory? What evidence supports it? (Hint: mitochondria & chloroplasts).",
+								"answer": "The endosymbiotic theory proposes that mitochondria and chloroplasts were once free-living prokaryotes that were engulfed by a larger cell and became incorporated as organelles. Evidence: They have their own circular DNA, replicate independently, and have ribosomes similar to bacterial ribosomes."
+							},
+							{
+								"question": "What was the Cambrian Explosion?",
+								"answer": "The Cambrian Explosion was a relatively short period (535-525 million years ago) where many major animal phyla appeared in the fossil record, marked by the evolution of predation and defensive adaptations."
+							},
+							{
+								"question": "What are the \"Big Five\" mass extinctions?",
+								"answer": "The \"Big Five\" are the five major mass extinction events recorded in the fossil record, each eliminating more than 50% of marine species."
+							},
+							{
+								"question": "What is an adaptive radiation? Give an example of when it typically occurs.",
+								"answer": "An adaptive radiation is a period of evolutionary change where groups of organisms form many new species adapted to different ecological niches. It often occurs after mass extinctions (vacant niches) or after the evolution of a major new adaptation (e.g., seeds in plants)."
+							},
+							{
+								"question": "How do changes in developmental genes (like Hox genes) contribute to large evolutionary changes?",
+								"answer": "Changes in developmental genes (like Hox genes) can cause large changes in body form by altering the rate, timing, or spatial pattern of development. A small genetic change can have a major effect on morphology."
+							}
+						]
+					},
+					{
+						"title": "Prokaryotes (Bacteria & Archaea)",
+						"questions": [
+							{
+								"question": "What are the three domains of life?",
+								"answer": "Bacteria, Archaea, and Eukarya."
+							},
+							{
+								"question": "How do prokaryotes reproduce?",
+								"answer": "By binary fission, often with horizontal gene transfer through plasmids."
+							},
+							{
+								"question": "What role do bacteria play in ecosystems?",
+								"answer": "They act as decomposers, nitrogen fixers, and producers, recycling key nutrients."
+							},
+							{
+								"question": "List five key structural characteristics of prokaryotes.",
+								"answer": "Characteristics: Unicellular, no nucleus or membrane-bound organelles, cell wall, single circular chromosome, may have capsules, flagella, or pili."
+							},
+							{
+								"question": "Compare the three major nutritional modes in prokaryotes: Photoautotroph, Chemoautotroph, and Chemoheterotroph. (State their energy source and carbon source).",
+								"answer": "Photoautotroph: Energy source = Light; Carbon source = CO₂ (e.g., Cyanobacteria). Chemoautotroph: Energy source = Inorganic chemicals; Carbon source = CO₂ (e.g., Nitrobacter). Chemoheterotroph: Energy source = Organic compounds; Carbon source = Organic compounds (e.g., E. coli)."
+							},
+							{
+								"question": "How do bacteria typically reproduce? What is horizontal gene transfer and why is it significant?",
+								"answer": "Bacteria typically reproduce asexually via binary fission. Horizontal gene transfer (e.g., sharing plasmids) is the transfer of genetic material between existing individuals. It is significant because it can rapidly spread beneficial traits, like antibiotic resistance."
+							},
+							{
+								"question": "What is an endospore and what is its function?",
+								"answer": "An endospore is a durable, dormant, and resistant structure formed by some bacteria to survive harsh conditions for long periods."
+							},
+							{
+								"question": "Describe two important ecological roles of prokaryotes (e.g., in chemical cycling).",
+								"answer": "Ecological roles: Decomposers (recycle chemicals), Nitrogen fixation (make N₂ available to plants), Symbiotic relationships (e.g., in gut), Bioremediation (break down pollutants)."
+							},
+							{
+								"question": "How are the domains Bacteria and Archaea similar? How are they different? (Hint: Think of evolutionary relationships and typical habitats).",
+								"answer": "Similar: Both are prokaryotes (no nucleus, unicellular). Different: Archaea are more closely related to eukaryotes and often live in extreme environments (extremophiles). Bacteria have peptidoglycan in their cell walls."
+							}
+						]
+					},
+					{
+						"title": "Protists",
+						"questions": [
+							{
+								"question": "Why are protists considered a paraphyletic group?",
+								"answer": "Because they include many eukaryotes that are not more closely related to each other than to plants, fungi, or animals."
+							},
+							{
+								"question": "What are the three nutritional categories of protists?",
+								"answer": "Animal-like (protozoa), plant-like (algae), and fungus-like (slime molds)."
+							},
+							{
+								"question": "What is the ecological role of protists?",
+								"answer": "They are major primary producers (phytoplankton), decomposers, and include important parasites such as Plasmodium (malaria)."
+							},
+							{
+								"question": "Why are protists considered a paraphyletic group?",
+								"answer": "A paraphyletic group includes an ancestor but not all of its descendants. Protists include the common ancestor of all eukaryotes, but exclude the plants, fungi, and animals that also descended from it."
+							},
+							{
+								"question": "Protists can be categorized by how they obtain nutrients. Name the three categories and describe their nutrition.",
+								"answer": "1. Animal-like (Protozoa): Ingestive chemoheterotrophs. 2. Plant-like (Algae): Photoautotrophs. 3. Fungus-like: Absorptive chemoheterotrophs (e.g., slime molds)."
+							},
+							{
+								"question": "What is the ecological role of photosynthetic protists (algae)?",
+								"answer": "Photosynthetic protists (phytoplankton) are primary producers that perform a significant amount of the Earth's photosynthesis and form the base of many aquatic food webs."
+							},
+							{
+								"question": "Name one human disease caused by a parasitic protist.",
+								"answer": "Malaria (caused by Plasmodium), Giardiasis, Naegleriasis."
+							}
+						]
+					},
+					{
+						"title": "Plants",
+						"questions": [
+							{
+								"question": "What adaptations allowed plants to colonize land?",
+								"answer": "Stems for support, waxy cuticle to reduce water loss, and vascular tissue for nutrient transport."
+							},
+							{
+								"question": "What is the difference between gymnosperms and angiosperms?",
+								"answer": "Gymnosperms have naked seeds, usually in cones, while angiosperms have flowers and seeds enclosed in fruit."
+							},
+							{
+								"question": "What is the biological definition of a fruit vs a vegetable?",
+								"answer": "A fruit is a seed-bearing structure from the ovary of a flower, while a vegetable is another plant part like roots, stems, or leaves."
+							},
+							{
+								"question": "What are the key challenges plants faced when colonizing land? What were the advantages?",
+								"answer": "Challenges: Scarcity of water, lack of structural support against gravity. Advantages: Unfiltered sunlight, more CO₂, nutrient-rich soil near water."
+							},
+							{
+								"question": "Describe the key adaptations that evolved in the following plant groups: Bryophytes (e.g., mosses): Seedless Vascular Plants (e.g., ferns): Gymnosperms (e.g., conifers): Angiosperms (flowering plants):",
+								"answer": "Bryophytes: Waxy cuticle, stomata, protected embryo. Lack vasculature. Seedless Vascular Plants: Vascular tissue (xylem & phloem), true roots and leaves. Require water for fertilization. Gymnosperms: Pollen (frees reproduction from water) and seeds (protected embryo with food supply). Angiosperms: Flowers (to attract pollinators) and fruits (to protect and disperse seeds)."
+							},
+							{
+								"question": "What is the function of xylem and phloem?",
+								"answer": "Xylem: Transports water and minerals from roots to shoots. Phloem: Transports sugars and organic compounds throughout the plant."
+							},
+							{
+								"question": "What is the evolutionary advantage of pollen?",
+								"answer": "Pollen allows for the male gamete to be transported without water (by wind or animals), enabling reproduction over long distances."
+							},
+							{
+								"question": "What is the evolutionary advantage of a seed?",
+								"answer": "A seed protects the plant embryo, provides it with a food supply, and allows for dispersal to new locations. It can also remain dormant until conditions are favorable."
+							},
+							{
+								"question": "What is the function of a flower? What is the function of a fruit?",
+								"answer": "Flower: A specialized structure for sexual reproduction, often using animals to transfer pollen. Fruit: A matured ovary that protects seeds and aids in their dispersal."
+							},
+							{
+								"question": "Describe the \"alternation of generations.\" Which generation is dominant in more complex plant groups (ferns, gymnosperms, angiosperms)?",
+								"answer": "Alternation of generations is a life cycle that alternates between a multicellular haploid stage (gametophyte, n) and a multicellular diploid stage (sporophyte, 2n). In more complex plants (ferns, gymnosperms, angiosperms), the sporophyte is the dominant generation."
+							},
+							{
+								"question": "What is the difference between a fruit and a vegetable from a botanical perspective?",
+								"answer": "Fruit: A mature ovary of a flower that contains seeds (e.g., tomatoes, apples, squash). Vegetable: Any other edible part of a plant, such as roots (carrots), leaves (lettuce), or stems (broccoli)."
+							}
+						]
+					}
+				]
+			}
+		}
+	}
+}
