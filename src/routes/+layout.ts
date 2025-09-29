@@ -1,6 +1,6 @@
 import type { LayoutLoad } from './$types';
 import { getData } from '$lib/data';
-
+export const prerender = true;
 export const load: LayoutLoad = async () => {
 	const data = getData()?.data;
 
