@@ -35,9 +35,12 @@
 <h1>Quiz: {quiz} of {subject}</h1>
 <h2>Sections:</h2>
 
-<div bind:this={sectionsDiv} class="flex w-full flex-col">
+<div
+	bind:this={sectionsDiv}
+	class="flex border-2 border-border w-full flex-col mb-2"
+>
 	{#each sections as section, i}
-		<div class="border-border border-3 gap-2 p-2 flex">
+		<div class="border-border border-b-2 last:border-none gap-2 p-2 flex">
 			<input
 				type="checkbox"
 				id="section-{i}"
